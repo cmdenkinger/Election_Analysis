@@ -14,25 +14,25 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 -Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ##Summary
-The analysis of the election show that:
+#The analysis of the election show that:
 -There were 369,711 votes cast in the election.
--County Results and the county with the highest results:
+#County Results and the county with the highest results:
   -Jefferson at 10.5% of votes and 38,855 total number of votes.
   -Denver at 82.8% of votes and 306,055 number of votes.
   -Arapahoe at 6.7% of votes and 24,801 number of votes.
--Winning County
+#Winning County
   -Denver with 82.8%.
  ![Election Results image] (<img width="265" alt="Election Results" src="https://user-images.githubusercontent.com/96212747/149677471-553eac3e-8f0d-495e-9b04-901bd6161d4d.png">)
 
--The candidates were:
+#The candidates were:
   -Charles Casper Stockham
   -Diana DeGette
   -Raymon Anthony Doane
--The candidate results were:
+#The candidate results were:
   -Charles Casper Stockham received 23% of the vote and 85,213 number of votes
   -Diana DeGette received 73.8% of the vote and 272,892 number of votes
   -Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes
--The winner of the election was:
+#The winner of the election was:
   -Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
   
  
